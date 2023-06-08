@@ -1,0 +1,20 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          myoauth2:
+            provider: spring
+            client-id: client
+            client-secret: secret
+            redirect-uri: http://127.0.0.1:8080/login/oauth2/code/myoauth2
+            scope: openid
+            authorization-grant-type: authorization_code
+        provider:
+          spring:
+            issuer-uri: http://localhost:9000
+            authorization-uri: http://localhost:9000/oauth2/authorize
+            token-uri: http://localhost:9000/oauth2/token
+            user-info-uri: http://localhost:9000/userinf
+server:
+  port: '8080'

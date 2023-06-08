@@ -1,0 +1,12 @@
+//--------------------------- Resource Server --------------------------------------
+
+#1:) GET http://localhost:8080/
+AUTH TYPES : Bearer
+TOKEN(ACCESS TOKEN) : eyJraWQiOiJmODM4MDlmNi04MDUyLTQyZmMtYWVlMS02M2ZmNWEwMGZjZTciLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ1c2VyIiwiYXVkIjoiY2xpZW50IiwibmJmIjoxNjg2MTc5NzI4LCJzY29wZSI6WyJyZWFkIiwiYWRkcmVzcyIsInBob25lIiwib3BlbmlkIiwicHJvZmlsZSIsImVtYWlsIl0sImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6OTAwMCIsImV4cCI6MTY4NjE4MDAyOCwiaWF0IjoxNjg2MTc5NzI4fQ.OphloXKATZ3aVueyp4XZFJ6p8rtfVxeVz1YI4kKCT0TMkOBPx_rmwSsyY0qw8SxfEJoxgKCrCsdbi07kCUnrP0xrVEzT5xy-DmaWrS7i4YM8_rzHKU0NsWvw-45TKliSFJQOM9Bp3dP9t_GNwv8xScVz6ZqSIHVnvWS5vSlEmyZL8HDeDBa9frTJmbW95hI492jDerxcHD-Oe-Fmk_pO0XHGSN5-Qzldeit9Wb6NPmzjfUdDplXAGhPj2lUoysHoXYBoYJfj9ZdNyRUhpYD1mouOz5EgX6SNtCFW5Dt5idg3giFGc7Z4NEEecWVP1DGZ1-BsJqajEoa_OPOTvSWZYA
+PREFIX : Bearer
+click Send button to send request.
+
+
+
+
+
